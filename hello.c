@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
-  puts("Hello, you crazy world!!!!");
+  puts("Hello, my old friend");
   return EXIT_SUCCESS;
 }
